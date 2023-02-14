@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Me llamo Marco Velasco 
+Salio del Colegio "Liceo Gran Chaco"
+Me gusta cantar y jugar voleybol 
+Estudio la carrera de ingeniería de sistemas porque me interesa la programación 
+Me gustaría poder crear algun videojuego
+Actualmente no conozco ningun lenguaje de programación 
+
 <!--
 **MarcVelasc/MarcVelasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
